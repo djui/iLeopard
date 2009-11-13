@@ -1,0 +1,826 @@
+TiLeopardUpdateDeamon
+v7
+r0
+t276226471.663873
+cCheck dependencies
+cProcessInfoPlistFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist iLeopardUpdateDeamon-Info.plist
+cCopyStringsFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+cCpResource build/Release/iLeopardUpdateDeamon.app/Contents/Resources/iLeopard.icns iLeopard.icns
+cProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon normal x86_64
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon normal i386
+cCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon normal ppc
+cCreateUniversalBinary /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+cPBXCp build/Release/iLeopardUpdateDeamon.app/Contents/Frameworks/Sparkle.framework ../Framworks/Sparkle/Sparkle.framework
+cTouch /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004AA98AC700000000000000EE
+t1252625095
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/gcamp/Desktop/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUAppcast.h
+c0000000048A5059F000000000000029C
+t1218774431
+s668
+
+N/Users/gcamp/Desktop/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUAppcastItem.h
+c0000000048CC849300000000000003F5
+t1221362835
+s1013
+
+N/Users/gcamp/Desktop/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUUpdater.h
+c000000004ABE8A9C0000000000001317
+t1254001308
+s4887
+i<Sparkle/SUVersionComparisonProtocol.h>
+
+N/Users/gcamp/Desktop/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUVersionComparisonProtocol.h
+c0000000048A5059F00000000000002C1
+t1218774431
+s705
+
+N/Users/gcamp/Desktop/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/Sparkle.h
+c0000000048A5059F0000000000000218
+t1218774431
+s536
+i<Sparkle/SUUpdater.h>
+i<Sparkle/SUAppcast.h>
+i<Sparkle/SUAppcastItem.h>
+i<Sparkle/SUVersionComparisonProtocol.h>
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework
+c000000004ABE890A00000000000000CC
+t1254000906
+s204
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework/Sparkle
+c0000000048CC84C200000000000712B4
+t1221362882
+s463540
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/InfoPlist.strings
+c000000004ABE88D8000000000000002D
+t1254000856
+s45
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+c000000004AC0DCB70000000000005E88
+t1254153399
+s24200
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+t1254438325
+s102
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM
+t1254438325
+s102
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Frameworks/Sparkle.framework
+t1254438325
+s204
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist
+t1254438315
+s1024
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+t1254438325
+s59584
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/PkgInfo
+t1254438315
+s8
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1254438315
+s92
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/MainMenu.nib
+t1254438315
+s1468
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/iLeopard.icns
+t1254438315
+s6665
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon
+t1254438325
+s18916
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon.LinkFileList
+c000000004AC535AB0000000000000145
+t1254438315
+s325
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o
+t1254438325
+s20704
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o
+t1254438325
+s4872
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon
+t1254438325
+s18624
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon.LinkFileList
+c000000004AC535AB0000000000000143
+t1254438315
+s323
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o
+t1254438325
+s21364
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o
+t1254438325
+s4904
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon
+t1254438325
+s15800
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon.LinkFileList
+c000000004AC535AB0000000000000149
+t1254438315
+s329
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o
+t1254438325
+s29308
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o
+t1254438325
+s5072
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopard.icns
+c000000004AC0DF990000000000001A09
+t1254154137
+s6665
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.h
+c000000004ABE88D80000000000000162
+t1254000856
+s354
+i<Cocoa/Cocoa.h>
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+c000000004AC15CB4000000000000064D
+t1254186164
+s1613
+i"iLeopardUpdateDeamonAppDelegate.h"
+i<Sparkle/Sparkle.h>
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch
+c000000004ABE88D800000000000000AB
+t1254000856
+s171
+i<Cocoa/Cocoa.h>
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m
+c000000004ABE88D8000000000000010A
+t1254000856
+s266
+i<Cocoa/Cocoa.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUAppcast.h
+c0000000048A5059F000000000000029C
+t1218774431
+s668
+
+N/Users/gcamp/Dropbox/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUAppcastItem.h
+c0000000048CC849300000000000003F5
+t1221362835
+s1013
+
+N/Users/gcamp/Dropbox/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUUpdater.h
+c000000004ABE8A9C0000000000001317
+t1254001308
+s4887
+i<Sparkle/SUVersionComparisonProtocol.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/SUVersionComparisonProtocol.h
+c0000000048A5059F00000000000002C1
+t1218774431
+s705
+
+N/Users/gcamp/Dropbox/DévEssaie/Framworks/Sparkle/Sparkle.framework/Headers/Sparkle.h
+c0000000048A5059F0000000000000218
+t1218774431
+s536
+i<Sparkle/SUUpdater.h>
+i<Sparkle/SUAppcast.h>
+i<Sparkle/SUAppcastItem.h>
+i<Sparkle/SUVersionComparisonProtocol.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework
+c000000004ABE890A00000000000000CC
+t1254000906
+s204
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework/Sparkle
+c0000000048CC84C200000000000712B4
+t1221362882
+s463540
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/InfoPlist.strings
+c000000004ABE88D8000000000000002D
+t1254000856
+s45
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+c000000004AC0DCB70000000000005E88
+t1254153399
+s24200
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+t1254533671
+s102
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM
+t1254533671
+s102
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Frameworks/Sparkle.framework
+t1254533671
+s204
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist
+t1254533650
+s1024
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+t1254533671
+s59584
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/PkgInfo
+t1254533650
+s8
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1254533650
+s92
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/MainMenu.nib
+t1254533650
+s1468
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/iLeopard.icns
+t1254533650
+s6665
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon
+t1254533670
+s18916
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon.LinkFileList
+c000000004AC6AA120000000000000145
+t1254533650
+s325
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o
+t1254533670
+s20704
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o
+t1254533669
+s4872
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon
+t1254533671
+s18624
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon.LinkFileList
+c000000004AC6AA120000000000000143
+t1254533650
+s323
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o
+t1254533670
+s21364
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o
+t1254533670
+s4904
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon
+t1254533669
+s15800
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon.LinkFileList
+c000000004AC6AA120000000000000149
+t1254533650
+s329
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o
+t1254533669
+s29308
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o
+t1254533669
+s5072
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopard.icns
+c000000004AC0DF990000000000001A09
+t1254154137
+s6665
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.h
+c000000004ABE88D80000000000000162
+t1254000856
+s354
+i<Cocoa/Cocoa.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+c000000004AC15CB4000000000000064D
+t1254186164
+s1613
+i"iLeopardUpdateDeamonAppDelegate.h"
+i<Sparkle/Sparkle.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch
+c000000004ABE88D800000000000000AB
+t1254000856
+s171
+i<Cocoa/Cocoa.h>
+
+N/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m
+c000000004ABE88D8000000000000010A
+t1254000856
+s266
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254533669
+s52737616
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254438324
+s52737616
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254438321
+s52868880
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254438321
+s55502640
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254533659
+s52868880
+
+N/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch.gch
+t1254533659
+s55502640
+
+NiLeopardUpdateDeamon-Info.plist
+c000000004AC0E0170000000000000410
+t1254154263
+s1040
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276226450#276226450#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276131125.272532
+e276131125.557115
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276131125#276131125#0(0"0(0#0#87"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2036"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276226469.827153
+e276226470.160984
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276226469#276226470#0(0"0(0#0#87"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2036"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276131125.150424
+e276131125.362462
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m276131125#276131125#0(0"0(0#0#60"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1982"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s276226469.605461
+e276226469.827037
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m276226469#276226469#0(0"0(0#0#60"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1982"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s276131125.564289
+e276131125.776196
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276131125#276131125#0(0"0(0#0#87"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2030"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s276226470.441440
+e276226470.719866
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276226470#276226470#0(0"0(0#0#87"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2030"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s276131125.362588
+e276131125.564171
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m276131125#276131125#0(0"0(0#0#60"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1976"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s276226469.866892
+e276226470.441326
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m276226469#276226470#0(0"0(0#0#60"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1976"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276131124.948630
+e276131125.212093
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276131124#276131125#0(0"0(0#0#87"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2042"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276226469.109371
+e276226469.605315
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m276226469#276226469#0(0"0(0#0#87"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m4300882208#2042"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamonAppDelegate.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamonAppDelegate.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276131124.946898
+e276131125.150308
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m276131124#276131125#0(0"0(0#0#60"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1988"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276226469.107833
+e276226469.607583
+r1
+xCompileC
+xbuild/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m276226469#276226469#0(0"0(0#0#60"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m4300882208#1988"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -include /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/main.m -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+s276131115.276260
+e276131115.517642
+r1
+xCompileXIB
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib276131115#276131115#0(0"0(0#0#80"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib4300882208#387"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/MainMenu.nib /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+s276226450.338485
+e276226450.619195
+r1
+xCompileXIB
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib276226450#276226450#0(0"0(0#0#80"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib4300882208#387"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/MainMenu.nib /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s276131115.274293
+e276131115.319960
+r1
+xCopyStringsFile
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings276131115#276131115#0(0"0(0#0#85"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/English.lproj/InfoPlist.strings4300882208#410"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s276226450.337549
+e276226450.379374
+r1
+xCopyStringsFile
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings276226450#276226450#0(0"0(0#0#85"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/English.lproj/InfoPlist.strings4300882208#410"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/iLeopardUpdateDeamon.app/Contents/Resources/iLeopard.icns iLeopard.icns
+s276226450.379488
+e276226450.388601
+r1
+xCpResource
+xbuild/Release/iLeopardUpdateDeamon.app/Contents/Resources/iLeopard.icns
+xiLeopard.icns
+lSLF07#2@18"Copy iLeopard.icns276226450#276226450#0(0"0(0#0#67"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopard.icns4300882208#410"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopard.icns /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon normal "x86_64 i386 ppc"
+s276131125.809648
+e276131125.813503
+r1
+xCreateUniversalBinary
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@121"CreateUniversalBinary build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon normal "x86_64 i386 ppc"276131125#276131125#0(0"0(0#0#69"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/x86_64 i386 ppc4300882208#714"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    /usr/bin/lipo -create /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon -output /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon0#
+
+CCreateUniversalBinary /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon normal "x86_64 i386 ppc"
+s276226471.135807
+e276226471.140492
+r1
+xCreateUniversalBinary
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@121"CreateUniversalBinary build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon normal "x86_64 i386 ppc"276226471#276226471#0(0"0(0#0#69"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/x86_64 i386 ppc4300882208#714"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /usr/bin/lipo -create /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon -output /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon0#
+
+CGenerateDSYMFile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+s276131125.813597
+e276131125.827970
+r1
+xGenerateDSYMFile
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+lSLF07#2@135"GenerateDSYMFile build/Release/iLeopardUpdateDeamon.app.dSYM build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon276131125#276131125#0(0"0(0#0#128"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon4300882208#323"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    /Developer/usr/bin/dsymutil /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM0#
+
+CGenerateDSYMFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+s276226471.140592
+e276226471.228211
+r1
+xGenerateDSYMFile
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon
+lSLF07#2@135"GenerateDSYMFile build/Release/iLeopardUpdateDeamon.app.dSYM build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon276226471#276226471#0(0"0(0#0#128"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon4300882208#323"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /Developer/usr/bin/dsymutil /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/MacOS/iLeopardUpdateDeamon -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app.dSYM0#
+
+CLd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon normal i386
+s276131125.557224
+e276131125.609822
+r1
+xLd
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon
+xnormal
+xi386
+lSLF07#2@167"Link /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon276131125#276131125#0(0"0(0#0#0"4300882208#816"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon0#
+
+CLd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon normal ppc
+s276131125.776312
+e276131125.809548
+r1
+xLd
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon
+xnormal
+xppc
+lSLF07#2@166"Link /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon276131125#276131125#0(0"0(0#0#0"4300882208#813"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon0#
+
+CLd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon normal x86_64
+s276131125.212210
+e276131125.272393
+r1
+xLd
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon
+xnormal
+xx86_64
+lSLF07#2@169"Link /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon276131125#276131125#0(0"0(0#0#0"4300882208#822"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon0#
+
+CLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon normal i386
+s276226470.161100
+e276226470.662837
+r1
+xLd
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon
+xnormal
+xi386
+lSLF07#2@167"Link /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon276226470#276226470#0(0"0(0#0#0"4300882208#816"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/i386/iLeopardUpdateDeamon0#
+
+CLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon normal ppc
+s276226470.719976
+e276226471.135688
+r1
+xLd
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon
+xnormal
+xppc
+lSLF07#2@166"Link /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon276226470#276226471#0(0"0(0#0#0"4300882208#813"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/ppc/iLeopardUpdateDeamon0#
+
+CLd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon normal x86_64
+s276226469.607694
+e276226469.866770
+r1
+xLd
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon
+xnormal
+xx86_64
+lSLF07#2@169"Link /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon276226469#276226469#0(0"0(0#0#0"4300882208#822"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -filelist /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Sparkle -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/Objects-normal/x86_64/iLeopardUpdateDeamon0#
+
+CPBXCp build/Release/iLeopardUpdateDeamon.app/Contents/Frameworks/Sparkle.framework ../Framworks/Sparkle/Sparkle.framework
+s276226471.228322
+e276226471.659377
+r1
+xPBXCp
+xbuild/Release/iLeopardUpdateDeamon.app/Contents/Frameworks/Sparkle.framework
+x../Framworks/Sparkle/Sparkle.framework
+lSLF07#2@43"Copy ../Framworks/Sparkle/Sparkle.framework276226471#276226471#0(0"0(0#0#92"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework4300882208#436"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle/Sparkle.framework /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist iLeopardUpdateDeamon-Info.plist
+s276131115.264901
+e276131115.274183
+r1
+xProcessInfoPlistFile
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist
+xiLeopardUpdateDeamon-Info.plist
+lSLF07#2@39"Process iLeopardUpdateDeamon-Info.plist276131115#276131115#0(0"0(0#0#85"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon-Info.plist4300882208#398"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    builtin-infoPlistUtility iLeopardUpdateDeamon-Info.plist -genpkginfo /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist iLeopardUpdateDeamon-Info.plist
+s276226450.323575
+e276226450.337431
+r1
+xProcessInfoPlistFile
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist
+xiLeopardUpdateDeamon-Info.plist
+lSLF07#2@39"Process iLeopardUpdateDeamon-Info.plist276226450#276226450#0(0"0(0#0#85"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon-Info.plist4300882208#398"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    builtin-infoPlistUtility iLeopardUpdateDeamon-Info.plist -genpkginfo /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s276226460.622753
+e276226469.107665
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276226460#276226469#0(0"0(0#0#85"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1855"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-ahkxfbuweboaqqcbistrxjibpljl/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s276131121.255220
+e276131124.946646
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276131121#276131124#0(0"0(0#0#85"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1855"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/ppc -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-bfocmehouzpyrvgidagfmhtkdenl/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276131115.517769
+e276131121.255010
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276131115#276131121#0(0"0(0#0#85"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1864"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-enqvmkblupcyykehuvblxorabfjy/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276131115.519550
+e276131121.578499
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276131115#276131121#0(0"0(0#0#85"/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1860"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-farklajfhvkguocpfyvplkqtkxrc/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276226450.619343
+e276226460.621885
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276226450#276226460#0(0"0(0#0#85"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1864"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/x86_64 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fasdkshqzsaehqewwpgabryulfrs/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch.gch iLeopardUpdateDeamon_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s276226450.620744
+e276226460.924963
+r1
+xProcessPCH
+x/var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch.gch
+xiLeopardUpdateDeamon_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile iLeopardUpdateDeamon_Prefix.pch276226450#276226460#0(0"0(0#0#85"/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch4300882208#1860"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-generated-files.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-own-target-headers.hmap -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-all-target-headers.hmap -iquote /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/iLeopardUpdateDeamon-project-headers.hmap -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release -F/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/../Framworks/Sparkle -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/include -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources/i386 -I/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/iLeopardUpdateDeamon.build/Release/iLeopardUpdateDeamon.build/DerivedSources -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon_Prefix.pch -o /var/folders/Cq/Cqdop5CRE6mU7kuGWSqvRE+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/iLeopardUpdateDeamon_Prefix-fjqmjwgfpzrhgwdowahzrwfvyugu/iLeopardUpdateDeamon_Prefix.pch.gch0#
+
+CTouch /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+s276131125.901996
+e276131125.906940
+r1
+xTouch
+x/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+lSLF07#2@98"Touch /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app276131125#276131125#0(0"0(0#0#0"4300882208#176"    cd /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon    /usr/bin/touch -c /Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app0#
+
+CTouch /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+s276226471.659496
+e276226471.663821
+r1
+xTouch
+x/Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app
+lSLF07#2@98"Touch /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app276226471#276226471#0(0"0(0#0#0"4300882208#176"    cd /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon    /usr/bin/touch -c /Users/gcamp/Dropbox/DévEssaie/iLeopardUpdateDeamon/build/Release/iLeopardUpdateDeamon.app0#
+

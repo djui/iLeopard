@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>iLeopard</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.guillaumecampagna.ileopard</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>iLeopard</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0B1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSMainNibFile</key>
+	<string>iLeopardPref</string>
+	<key>NSPrefPaneIconFile</key>
+	<string>iLeopardPref.png</string>
+	<key>NSPrefPaneIconLabel</key>
+	<string>iLeopard</string>
+	<key>NSPrincipalClass</key>
+	<string>iLeopardPref</string>
+	<key>SUFeedURL</key>
+	<string>http://www.littlekiwi.co.cc/ileopardappcast.xml</string>
+	<key>SUPublicDSAKeyFile</key>
+	<string>iLeopard_pub.pem</string>
+</dict>
+</plist>

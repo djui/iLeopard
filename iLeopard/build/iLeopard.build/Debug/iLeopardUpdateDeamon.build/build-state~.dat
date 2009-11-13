@@ -1,0 +1,46 @@
+TiLeopardUpdateDeamon
+v7
+r0
+t275693569.528455
+cCheck dependencies
+cProcessInfoPlistFile /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/Info.plist iLeopardUpdateDeamon-Info.plist
+cTouch /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app
+t1254000769
+s102
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/Info.plist
+t1254000769
+s861
+
+N/Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/PkgInfo
+t1254000769
+s8
+
+NiLeopardUpdateDeamon-Info.plist
+c000000004ABE8864000000000000037F
+t1254000740
+s895
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275693569#275693569#0(0"0(0#1#0"4300882208#0"0#
+
+CProcessInfoPlistFile /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/Info.plist iLeopardUpdateDeamon-Info.plist
+s275693569.500304
+e275693569.516385
+r1
+xProcessInfoPlistFile
+x/Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/Info.plist
+xiLeopardUpdateDeamon-Info.plist
+lSLF07#2@39"Process iLeopardUpdateDeamon-Info.plist275693569#275693569#0(0"0(0#0#73"/Users/gcamp/Desktop/DévEssaie/iLeopard/iLeopardUpdateDeamon-Info.plist4300882208#358"    cd /Users/gcamp/Desktop/DévEssaie/iLeopard    builtin-infoPlistUtility iLeopardUpdateDeamon-Info.plist -genpkginfo /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app/Contents/Info.plist0#
+
+CTouch /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app
+s275693569.516585
+e275693569.528409
+r1
+xTouch
+x/Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app
+lSLF07#2@84"Touch /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app275693569#275693569#0(0"0(0#0#0"4300882208#150"    cd /Users/gcamp/Desktop/DévEssaie/iLeopard    /usr/bin/touch -c /Users/gcamp/Desktop/DévEssaie/iLeopard/build/Debug/iLeopardUpdateDeamon.app0#
+

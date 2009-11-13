@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 583}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* iLeopardUpdateDeamonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 958}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* iLeopardUpdateDeamonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 611}}";
+			sepNavSelRange = "{651, 9}";
+			sepNavVisRange = "{0, 1608}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = B091D105106EC0580076923E /* iLeopardUpdateDeamon */;
+		activeTarget = 8D1107260486CEB800E47090 /* iLeopardUpdateDeamon */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iLeopardUpdateDeamon */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = B091D113106EC0770076923E /* Code sense */;
+		executables = (
+			B091D105106EC0580076923E /* iLeopardUpdateDeamon */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1044,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 279066137;
+			PBXWorkspaceStateSaveDate = 279066137;
+		};
+		perUserProjectItems = {
+			B02641FF1075733F009A5AD9 /* PBXTextBookmark */ = B02641FF1075733F009A5AD9 /* PBXTextBookmark */;
+			B03FDD231071144E00B8A074 /* PBXTextBookmark */ = B03FDD231071144E00B8A074 /* PBXTextBookmark */;
+			B03FDD501071176E00B8A074 /* PBXTextBookmark */ = B03FDD501071176E00B8A074 /* PBXTextBookmark */;
+			B03FDD5A1071189900B8A074 /* PBXBookmark */ = B03FDD5A1071189900B8A074 /* PBXBookmark */;
+			B03FDD5B1071189900B8A074 /* PlistBookmark */ = B03FDD5B1071189900B8A074 /* PlistBookmark */;
+			B091D212106ED7AE0076923E /* PBXTextBookmark */ = B091D212106ED7AE0076923E /* PBXTextBookmark */;
+		};
+		sourceControlManager = B091D112106EC0770076923E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 560}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 266}";
+		};
+	};
+	8D1107260486CEB800E47090 /* iLeopardUpdateDeamon */ = {
+		activeExec = 0;
+		executables = (
+			B091D105106EC0580076923E /* iLeopardUpdateDeamon */,
+		);
+	};
+	B02641FF1075733F009A5AD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iLeopardUpdateDeamonAppDelegate.m */;
+		name = "iLeopardUpdateDeamonAppDelegate.m: 22";
+		rLen = 9;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 1608;
+		vrLoc = 0;
+	};
+	B03FDD231071144E00B8A074 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	B03FDD501071176E00B8A074 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	B03FDD5A1071189900B8A074 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B03FDD561071177900B8A074 /* iLeopard.icns */;
+	};
+	B03FDD5B1071189900B8A074 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iLeopardUpdateDeamon-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/gcamp/Desktop/DévEssaie/iLeopardUpdateDeamon/iLeopardUpdateDeamon-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B091D105106EC0580076923E /* iLeopardUpdateDeamon */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iLeopardUpdateDeamon;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B091D112106EC0770076923E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B091D113106EC0770076923E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B091D212106ED7AE0076923E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* iLeopardUpdateDeamonAppDelegate.h */;
+		name = "iLeopardUpdateDeamonAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+}
